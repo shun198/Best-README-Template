@@ -1,29 +1,28 @@
 <div id="top"></div>
 
 <!-- フロントエンドフレームワーク -->
-![Next.js][Next.js]
-![TailwindCSS][TailwindCSS]
+![Next.js]
+![TailwindCSS]
 <!-- フロントエンド言語 -->
-![React][React]
-![TypeScript][TypeScript]
+![React]
+![TypeScript]
 <!-- バックエンドフレームワーク -->
-![Django][Django]
-![FastAPI][FastAPI]
-![Rails][Rails]
+![Django]
+![FastAPI]
+![Rails]
 <!-- バックエンド言語 -->
-![Python][Python]
-![Ruby][Ruby]
-![Rust][Rust]
+![Python]
+![Ruby]
+![Rust]
 <!-- ミドルウェア -->
-![Nginx][Nginx]
-![Postgres][Postgres]
-![MySQL][MySQL]
-![Redis][Redis]
-![Gunicorn][Gunicorn]
+![Nginx]
+![Postgres]
+![MySQL]
+![Redis]
+![Gunicorn]
 <!-- インフラ -->
-![Docker][Docker]
-![AWS][AWS]
-
+![Docker]
+![AWS]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
