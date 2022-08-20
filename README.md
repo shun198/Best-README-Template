@@ -1,5 +1,7 @@
 <div id="top"></div>
 
+<!-- シールド一覧 -->
+<!-- 該当するプロジェクトの中から任意のものを選ぶ-->
 <!-- フロントエンドフレームワーク -->
 ![Next.js]
 ![TailwindCSS]
@@ -22,10 +24,100 @@
 ![Gunicorn]
 <!-- インフラ -->
 ![Docker]
+![GitHubActions]
 ![AWS]
+<!--　その他 -->
+![Ansible]
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- READMEの作成方法のesaのリンク -->
+<br />
+<div align="right">
+    <a href="https://github.com/github_username/repo_name"><strong>READMEの作成方法 »</strong></a>
+</div>
+<br />
+<div align="right">
+    <a href="https://github.com/github_username/repo_name"><strong>コンテナの作成方法 »</strong></a>
+</div>
+<br />
+<div align="center">
+  <!-- プロジェクトロゴ -->
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">プロジェクト名</h3>
+
+  <p align="center">
+    <br />
+    <a href="https://github.com/github_username/repo_name"><strong>プロジェクト詳細 »</strong></a>
+    <br />
+    <br />
+</div>
+
+
+
+
+## 目次
+
+1. プロジェクトについて
+2. 環境
+3. ディレクトリ構成
+4. ER図
+5. 開発環境構築
+
+<!-- プロジェクトについて -->
+## プロジェクトについて
+<!-- 画面のスクショを載せる -->
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- プロジェクトの概要を記載 -->
+### プロジェクトの概要
+
+
+<p align="right">(<a href="#top">トップへ</a>)</p>
+
+
+## 環境
+<!-- 言語、フレームワーク、ミドルウェア、インフラの一覧とバージョンを記載 -->
+
+<p align="right">(<a href="#top">トップへ</a>)</p>
+
+## ディレクトリ構成
+<!-- Treeコマンドを使ってディレクトリ構成を記載 -->
+
+<p align="right">(<a href="#top">トップへ</a>)</p>
+
+## ER図
+<!-- draw.ioのリンクを記載 -->
+
+<p align="right">(<a href="#top">トップへ</a>)</p>
+
+## 開発環境構築
+<!-- コンテナの作成方法、パッケージのインストール方法など、開発環境構築に必要な情報を記載 -->
+1. .envファイルの配置
+<ユーザ名>から.envファイルをもらい、.envファイルをルートディレクトリ直下に配置
+2. プロジェクトの作成
+  ```
+  docker-compose run
+  ```
+3. コンテナの起動
+  ```
+  docker-compose up -d
+  ```
+4. コンテナの停止
+  ```
+  docker-compose down
+  ```
+5. 動作確認
+http:localhost:80にアクセスできるか確認
+アクセスできたら成功
+
+<p align="right">(<a href="#top">トップへ</a>)</p>
+
+
+<!-- マークダウンリンク&画像一覧 -->
+<!-- 画像一覧 -->
+<!-- プロジェクトの画面のスクショ -->
+[product-screenshot]: images/screenshot.png
 <!-- フロントエンドフレームワーク -->
 [Next.js]: https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=for-the-badge
 [TailwindCSS]: https://img.shields.io/badge/-TailwindCSS-000000.svg?logo=tailwindcss&style=for-the-badge
@@ -34,112 +126,21 @@
 [TypeScript]: https://img.shields.io/badge/-TypeScript-000000.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB
 <!-- バックエンドフレームワーク -->
 [Django]: https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=for-the-badge
-[FastAPI]: https://img.shields.io/badge/-fastapi-009688.svg?logo=FastAPI&style=for-the-badge
-[Rails]: https://img.shields.io/badge/-Rails-CC0000.svg?style=for-the-badge&logo=rails&logoColor=61DAFB
+[FastAPI]: https://img.shields.io/badge/-fastapi-009688.svg?logo=FastAPI&style=for-the-badge&logoColor=black
+[Rails]: https://img.shields.io/badge/-Rails-CC0000.svg?style=for-the-badge&logo=rails&logoColor=white
 <!-- バックエンド言語 -->
 [Python]: https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge
 [Ruby]: https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=for-the-badge
 [Rust]: https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=for-the-badge
 <!-- ミドルウェア -->
 [Nginx]: https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=for-the-badge
-[Postgres]: https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=for-the-badge
-[MySQL]: https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=for-the-badge
-[Redis]: https://img.shields.io/badge/-Redis-DC382D.svg?logo=redis&style=for-the-badge
-[Gunicorn]: https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&style=for-the-badge
+[Postgres]: https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=for-the-badge&logoColor=white
+[MySQL]: https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=for-the-badge&logoColor=white
+[Redis]: https://img.shields.io/badge/-Redis-DC382D.svg?logo=redis&style=for-the-badge&logoColor=white
+[Gunicorn]: https://img.shields.io/badge/-Gunicorn-199848.svg?logo=gunicorn&style=for-the-badge&logoColor=white
 <!-- インフラ -->
 [Docker]: https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=for-the-badge
+[GitHubActions]: https://img.shields.io/badge/-githubactions-2088FF.svg?logo=github&style=for-the-badge
 [AWS]: https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=for-the-badge
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
-</div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-  </ol>
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. 
-2. 
-3. 
-4. 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!-- その他 -->
+[Ansible]: https://img.shields.io/badge/-Ansible-000000.svg?logo=ansible&style=for-the-badge
