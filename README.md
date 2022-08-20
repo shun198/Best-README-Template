@@ -3,31 +3,31 @@
 <!-- シールド一覧 -->
 <!-- 該当するプロジェクトの中から任意のものを選ぶ-->
 <!-- フロントエンドフレームワーク -->
-![Next.js]
-![TailwindCSS]
+<img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=for-the-badge">
+<img src="https://img.shields.io/badge/-TailwindCSS-000000.svg?logo=tailwindcss&style=for-the-badge">
 <!-- フロントエンド言語 -->
-![React]
-![TypeScript]
+<img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/-TypeScript-000000.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB">
 <!-- バックエンドフレームワーク -->
-![Django]
-![FastAPI]
-![Rails]
+<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=for-the-badge">
+<img src="https://img.shields.io/badge/-fastapi-009688.svg?logo=FastAPI&style=for-the-badge&logoColor=black">
+<img src="https://img.shields.io/badge/-Rails-CC0000.svg?style=for-the-badge&logo=rails&logoColor=white">
 <!-- バックエンド言語 -->
-![Python]
-![Ruby]
-![Rust]
+<img src="https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=for-the-badge">
 <!-- ミドルウェア -->
-![Nginx]
-![Postgres]
-![MySQL]
-![Redis]
-![Gunicorn]
+<img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/-Redis-DC382D.svg?logo=redis&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/-Gunicorn-199848.svg?logo=gunicorn&style=for-the-badge&logoColor=white">
 <!-- インフラ -->
-![Docker]
-![GitHubActions]
-![AWS]
-<!--　その他 -->
-![Ansible]
+<img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=for-the-badge">
+<img src="https://img.shields.io/badge/-githubactions-2088FF.svg?logo=github&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=for-the-badge">
+<!--その他 -->
+<img src="https://img.shields.io/badge/-Ansible-000000.svg?logo=ansible&style=for-the-badge">
 
 <!-- READMEの作成方法のesaのリンク -->
 <br />
@@ -54,9 +54,6 @@
     <br />
 </div>
 
-
-
-
 ## 目次
 
 1. プロジェクトについて
@@ -68,7 +65,7 @@
 <!-- プロジェクトについて -->
 ## プロジェクトについて
 <!-- 画面のスクショを載せる -->
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="images/screenshot.png">
 <!-- プロジェクトの概要を記載 -->
 ### プロジェクトの概要
 
@@ -112,35 +109,3 @@ http:localhost:80にアクセスできるか確認
 アクセスできたら成功
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
-
-
-<!-- マークダウンリンク&画像一覧 -->
-<!-- 画像一覧 -->
-<!-- プロジェクトの画面のスクショ -->
-[product-screenshot]: images/screenshot.png
-<!-- フロントエンドフレームワーク -->
-[Next.js]: https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=for-the-badge
-[TailwindCSS]: https://img.shields.io/badge/-TailwindCSS-000000.svg?logo=tailwindcss&style=for-the-badge
-<!-- フロントエンド言語 -->
-[React]: https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[TypeScript]: https://img.shields.io/badge/-TypeScript-000000.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB
-<!-- バックエンドフレームワーク -->
-[Django]: https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=for-the-badge
-[FastAPI]: https://img.shields.io/badge/-fastapi-009688.svg?logo=FastAPI&style=for-the-badge&logoColor=black
-[Rails]: https://img.shields.io/badge/-Rails-CC0000.svg?style=for-the-badge&logo=rails&logoColor=white
-<!-- バックエンド言語 -->
-[Python]: https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge
-[Ruby]: https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=for-the-badge
-[Rust]: https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=for-the-badge
-<!-- ミドルウェア -->
-[Nginx]: https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=for-the-badge
-[Postgres]: https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=for-the-badge&logoColor=white
-[MySQL]: https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=for-the-badge&logoColor=white
-[Redis]: https://img.shields.io/badge/-Redis-DC382D.svg?logo=redis&style=for-the-badge&logoColor=white
-[Gunicorn]: https://img.shields.io/badge/-Gunicorn-199848.svg?logo=gunicorn&style=for-the-badge&logoColor=white
-<!-- インフラ -->
-[Docker]: https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=for-the-badge
-[GitHubActions]: https://img.shields.io/badge/-githubactions-2088FF.svg?logo=github&style=for-the-badge
-[AWS]: https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=for-the-badge
-<!-- その他 -->
-[Ansible]: https://img.shields.io/badge/-Ansible-000000.svg?logo=ansible&style=for-the-badge
