@@ -4,25 +4,25 @@
 
 <!-- シールド一覧 -->
 <!-- 該当するプロジェクトの中から任意のものを選ぶ-->
-<img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=for-the-badge">
-<img src="https://img.shields.io/badge/-TailwindCSS-000000.svg?logo=tailwindcss&style=for-the-badge">
-<img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/-TypeScript-000000.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=for-the-badge">
-<img src="https://img.shields.io/badge/-fastapi-009688.svg?logo=FastAPI&style=for-the-badge&logoColor=black">
-<img src="https://img.shields.io/badge/-Rails-CC0000.svg?style=for-the-badge&logo=rails&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/-Redis-DC382D.svg?logo=redis&style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/-Gunicorn-199848.svg?logo=gunicorn&style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=for-the-badge">
-<img src="https://img.shields.io/badge/-githubactions-2088FF.svg?logo=github&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Ansible-000000.svg?logo=ansible&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=for-the-badge" style="display: inline">
+<img src="https://img.shields.io/badge/-TailwindCSS-000000.svg?logo=tailwindcss&style=for-the-badge" style="display: inline">
+<img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="display: inline">
+<img src="https://img.shields.io/badge/-TypeScript-000000.svg?style=for-the-badge&logo=typescript&logoColor=61DAFB" style="display: inline">
+<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=for-the-badge" style="display: inline">
+<img src="https://img.shields.io/badge/-fastapi-009688.svg?logo=FastAPI&style=for-the-badge&logoColor=black" style="display: inline">
+<img src="https://img.shields.io/badge/-Rails-CC0000.svg?style=for-the-badge&logo=rails&logoColor=white" style="display: inline">
+<img src="https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge" style="display: inline">
+<img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=for-the-badge" style="display: inline">
+<img src="https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=for-the-badge" style="display: inline">
+<img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=for-the-badge" style="display: inline">
+<img src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=for-the-badge&logoColor=white" style="display: inline">
+<img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=for-the-badge&logoColor=white" style="display: inline">
+<img src="https://img.shields.io/badge/-Redis-DC382D.svg?logo=redis&style=for-the-badge&logoColor=white" style="display: inline">
+<img src="https://img.shields.io/badge/-Gunicorn-199848.svg?logo=gunicorn&style=for-the-badge&logoColor=white" style="display: inline">
+<img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=for-the-badge" style="display: inline">
+<img src="https://img.shields.io/badge/-githubactions-2088FF.svg?logo=github&style=for-the-badge" style="display: inline">
+<img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=for-the-badge" style="display: inline">
+<img src="https://img.shields.io/badge/-Ansible-000000.svg?logo=ansible&style=for-the-badge" style="display: inline">
 
 ## 目次
 
