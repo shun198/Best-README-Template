@@ -52,31 +52,22 @@
     <a href="https://github.com/github_username/repo_name"><strong>コンテナの作成方法 »</strong></a>
 </div>
 <br />
-<div align="center">
-  <!-- プロジェクトロゴ -->
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+<!-- プロジェクト名を記載 -->
 
-<h3 align="center">プロジェクト名</h3>
+## プロジェクト名
 
-  <p align="center">
+<!-- プロジェクトについて -->
+
+### プロジェクトについて
+
+<!-- プロジェクトの概要を記載 -->
+
+  <p align="left">
     <br />
     <!-- プロジェクト詳細にBacklogのWikiのリンク -->
     <a href="https://github.com/github_username/repo_name"><strong>プロジェクト詳細 »</strong></a>
     <br />
     <br />
-</div>
-
-<!-- プロジェクトについて -->
-
-## プロジェクトについて
-
-<!-- 画面のスクショを載せる -->
-<img src="images/screenshot.png">
-<!-- プロジェクトの概要を記載 -->
-
-### プロジェクトの概要
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
@@ -103,7 +94,9 @@
 <!-- コンテナの作成方法、パッケージのインストール方法など、開発環境構築に必要な情報を記載 -->
 
 1. .env ファイルの配置
+
    <ユーザ名>から.env ファイルをもらい、.env ファイルをルートディレクトリ直下に配置
+
 2. プロジェクトの作成
 
 ```
