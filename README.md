@@ -42,13 +42,13 @@
 4. ER 図
 5. 開発環境構築
 
-<!-- READMEの作成方法のesaのリンク -->
+<!-- Backlogのwiki(READMEの作成方法のesaのリンクもwikiに貼っておく) -->
 <br />
 <div align="right">
     <a href="https://github.com/github_username/repo_name"><strong>READMEの作成方法 »</strong></a>
 </div>
 <br />
-<!-- Dockerfileのesaのリンク -->
+<!-- Backlogのwiki(Dockerfileのesaのリンクもwikiに貼っておく) -->
 <div align="right">
     <a href="https://github.com/github_username/repo_name"><strong>Dockerfileの詳細 »</strong></a>
 </div>
